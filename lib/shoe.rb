@@ -25,5 +25,6 @@ attr_reader :brand
 
   def new_condition
     @condition
+  end
 
 end

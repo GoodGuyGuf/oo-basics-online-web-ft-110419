@@ -19,12 +19,4 @@ attr_reader :brand
     @condition
   end
 
-  def new_condition=(condition)
-    @condition = shoe.condition = "New"
-  end
-
-  def new_condition
-    @condition
-  end
-
 end

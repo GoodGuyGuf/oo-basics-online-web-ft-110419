@@ -11,8 +11,5 @@ attr_reader :brand
     puts "Your shoe is as good as new!"
   end
 
-  def condition
-    puts "New"
-  end
 
 end
